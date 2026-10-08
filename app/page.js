@@ -29,7 +29,7 @@ export default function Home() {
               <div className="w-2.5 h-2.5 rounded-full bg-emerald-500 ring-4 ring-emerald-100 animate-pulse"></div>
               <a className="flex items-center gap-2 group" href="#">
                 <span className="font-bold text-slate-900 tracking-tight group-hover:text-brand-600 transition-colors">
-                  Alex Danuarta
+                  Rahmat Adi Syahputra
                 </span>
                 <span className="text-slate-300">/</span>
                 <span className="text-xs font-semibold px-2 py-0.5 rounded-md bg-slate-100 text-slate-600 border border-slate-200 hidden sm:inline-block">
